@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\manyadav5\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\kafka-practice\kafka-stream\.metadata\.plugins\org.eclipse.jdt.core
+1828455486.index
+518758441.index
+2138739258.index
+3734286756.index
+679300782.index
+1943394969.index
+1609573720.index
+3531877363.index
+1765426749.index

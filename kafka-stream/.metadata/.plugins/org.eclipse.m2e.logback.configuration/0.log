@@ -1,0 +1,50 @@
+2019-12-29 14:23:53,847 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-29 14:26:29,450 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.manish:word-count-application:0.0.1-SNAPSHOT @ C:\Users\manyadav5\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\kafka-practice\kafka-stream\word-count-application\pom.xml.
+2019-12-29 14:26:32,594 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /word-count-application/src/main/java
+2019-12-29 14:26:32,595 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /word-count-application/src/main/resources
+2019-12-29 14:26:32,627 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /word-count-application/src/main/resources
+2019-12-29 14:26:32,646 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /word-count-application/src/test/java
+2019-12-29 14:26:34,365 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2019-12-29 14:26:34,370 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-29 14:26:35,920 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.manish:word-count-application:0.0.1-SNAPSHOT @ C:\Users\manyadav5\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\kafka-practice\kafka-stream\word-count-application\pom.xml.
+2019-12-29 14:26:37,371 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /word-count-application/src/main/java
+2019-12-29 14:26:37,372 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /word-count-application/src/main/resources
+2019-12-29 14:26:37,375 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /word-count-application/src/main/resources
+2019-12-29 14:26:37,383 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /word-count-application/src/test/java
+2019-12-29 14:26:38,108 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-12-29 14:26:39,958 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-29 14:26:39,970 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-29 14:26:39,997 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-29 14:26:40,003 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-29 14:26:40,003 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\manyadav5\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\kafka-practice\kafka-stream\word-count-application\src\test\resources
+2019-12-29 14:29:13,822 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-29 14:29:13,831 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-29 14:29:13,835 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-29 14:29:13,840 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-29 14:29:13,840 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\manyadav5\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\kafka-practice\kafka-stream\word-count-application\src\test\resources
+2019-12-29 14:33:44,199 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.manish:favourite-color-application:0.0.1-SNAPSHOT @ C:\Users\manyadav5\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\kafka-practice\kafka-stream\favourite-color-application\pom.xml.
+2019-12-29 14:33:45,639 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /favourite-color-application/src/main/java
+2019-12-29 14:33:45,640 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /favourite-color-application/src/main/resources
+2019-12-29 14:33:45,672 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /favourite-color-application/src/main/resources
+2019-12-29 14:33:45,697 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /favourite-color-application/src/test/java
+2019-12-29 14:33:46,859 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2019-12-29 14:33:46,875 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-29 14:33:47,741 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.manish:favourite-color-application:0.0.1-SNAPSHOT @ C:\Users\manyadav5\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\kafka-practice\kafka-stream\favourite-color-application\pom.xml.
+2019-12-29 14:33:49,550 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /favourite-color-application/src/main/java
+2019-12-29 14:33:49,551 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /favourite-color-application/src/main/resources
+2019-12-29 14:33:49,555 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /favourite-color-application/src/main/resources
+2019-12-29 14:33:49,562 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /favourite-color-application/src/test/java
+2019-12-29 14:33:50,238 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-12-29 14:33:51,785 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-29 14:33:51,786 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-29 14:33:51,789 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-29 14:33:51,793 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-29 14:33:51,795 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\manyadav5\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\kafka-practice\kafka-stream\favourite-color-application\src\test\resources
+2019-12-29 14:35:10,962 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-29 14:35:10,964 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-29 14:35:10,967 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-29 14:35:10,970 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-29 14:35:10,971 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\manyadav5\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\kafka-practice\kafka-stream\favourite-color-application\src\test\resources
+2019-12-29 14:35:19,432 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-29 14:35:19,433 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-29 14:35:19,437 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
